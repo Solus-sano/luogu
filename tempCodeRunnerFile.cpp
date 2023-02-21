@@ -1,0 +1,1 @@
+    // freopen("P4001_3.in","r",stdin);

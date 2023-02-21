@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "tuple": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
